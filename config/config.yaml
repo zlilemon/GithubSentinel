@@ -1,0 +1,9 @@
+subscriptions:
+  - owner/repo1
+  - owner/repo2
+
+notifier:
+  email: example@example.com
+
+report:
+  format: text
